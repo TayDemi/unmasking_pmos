@@ -1,0 +1,6 @@
+{
+  "name": "PCOS ML Diagnostic Clinical Dashboard",
+  "description": "Clinical diagnostic interface and patient evaluation dashboard for PCOS machine learning detection, feature importance analysis, and clinical decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
